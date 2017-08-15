@@ -20,6 +20,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     
+    
+    
     Person *person1 = [[Person alloc] init];
     person1.name = @"你";
     person1.age = 44;
